@@ -1,7 +1,8 @@
 ### your site title here
 
 title: LIU Hanwen
-baseurl:  # name of the repository
+baseurl: "/home"
+url: "https://liu-hanwen.github.io"
 email: liu.hanwen@foxmail.com
 
 
